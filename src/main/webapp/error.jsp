@@ -228,7 +228,7 @@ p {
 </style>
 </head>
 <body>
-	<h1 class="error_heading">500</h1>
+	<h1 class="error_heading">Error 500</h1>
 	<h2 class="error_subheading">
 		<%-- Exception Handler --%>
 		<font color="red"> <%= exception.toString() %><br>
