@@ -48,6 +48,7 @@ import template.app.core.report.GeneralReportUtil;
 
 /**
  * The Class ReportCommand.
+ * RF
  */
 public abstract class ReportCommand implements Serializable {
 
